@@ -8,7 +8,7 @@ class Kid
     @name = name
   end
 end
-
+# ////////////////////////////
 angelina = Kid.new("Angelina")
 mikhail_baryshnikov = Dancer.new("Mikhail")
  
